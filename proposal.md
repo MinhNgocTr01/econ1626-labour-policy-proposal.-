@@ -79,3 +79,89 @@ At scale, AI allows output to grow without hiring, shifting industries toward ca
 The result is ***growth without jobs and profit without wage growth*** — economy-wide, not sector-specific.
 
 *These four failures demand four distinct instruments; what follows develops and evaluates them.*
+
+---
+
+## III. Policy Options
+
+Before any option deploys, eligibility must exist. Individual proof of AI displacement is not viable. The proxy framework operates on three criteria, any one sufficient: redundancy in JSA's five highest-exposure occupations; firm disclosure linking AI adoption to headcount reduction; or sectoral contraction exceeding **5% AI-attributable job loss within 12 months**. Over-inclusion is acceptable — excluding a displaced worker costs more than supporting a misclassified one.
+
+Options are evaluated against five criteria: *causal alignment* (does it target the mechanism, not the symptom?), *target precision* (does it reach the right workers?), *reinstatement effect* (does it create new roles?), *equity* (does it reach the most exposed?), and *fiscal efficiency* (is cost proportionate to outcomes?).
+
+### Comparative Summary
+
+| Criterion | Option 1: Wage Insurance | Option 2: Reskilling | Option 3: Complementarity | Option 4: Levy |
+|---|---|---|---|---|
+| Causal alignment | Low | Moderate | High | **Highest** |
+| Target precision | High | Moderate | High | Moderate |
+| Reinstatement effect | None | Moderate | High | Indirect |
+| Equity | High | Moderate | High | High |
+| Fiscal efficiency | Moderate | Moderate | Low–Moderate | **Revenue-generating** |
+
+---
+
+### Option 1: AI Displacement Wage Insurance
+
+Workers in JSA's five highest-exposure occupations who re-enter employment at lower pay receive a **50% government top-up on the wage gap for 24 months, capped at $25,000**. It is the fastest option to deploy, built on existing Workforce Australia infrastructure. The 24-month window is calibrated to the average Australian retraining horizon under VET/TAFE programs (12–18 months), plus a 6-month job-search buffer.
+
+If re-employment data shows <60% placement at 18 months, the cap extends and Option 3 deployment accelerates. But it finances the transition interval without shortening it. Without Options 2 and 3 operational behind it, ***it is a bridge to nowhere***.
+
+| Criterion | Rating | Justification |
+|---|---|---|
+| Causal alignment | Low | Compensates for income loss; does not fix wage transmission failure |
+| Target precision | High | Proxy framework delivers occupational and sectoral targeting |
+| Reinstatement effect | None | Creates no new roles; finances interval only |
+| Equity | High | Wage-proportionate design protects mid-income displaced workers |
+| Fiscal efficiency | Moderate | $25,000 cap is defensible; cost scales with displacement rate |
+
+---
+
+### Option 2: Reskilling Based on Real Job Demand
+
+Displaced workers receive fully-funded VET/TAFE training into occupations with **JSA-projected growth above 3%**: aged care at *+15.4% by 2030* is a clear destination. This corrects the National AI Plan's focus on tool literacy over job transition, and prevents funding flowing into fields where AI is already cutting roles. The constraint is timing: demand can shift within 18 months, requiring annual updates to remain accurate.
+
+| Criterion | Rating | Justification |
+|---|---|---|
+| Causal alignment | Moderate | Addresses skill mismatch; cannot fix wage transmission or concentration |
+| Target precision | Moderate | Demand threshold reduces misallocation; destination uncertainty remains |
+| Reinstatement effect | Moderate | Prepares workers for reinstatement but does not create the roles itself |
+| Equity | Moderate | Targets high-exposure workers, but misses lower-exposure roles |
+| Fiscal efficiency | Moderate | Cost-effective if destinations hold; wasteful if AI advances faster |
+
+---
+
+### Option 3: Using AI to Support Workers in Public Services
+
+Government deploys AI in aged care, healthcare, and education to absorb administrative and documentation tasks, freeing workers for **relational work AI cannot perform**. Sectors are selected because complementarity is structural, labour shortages are acute, and private adoption has stalled. This is the ***only option that creates jobs directly***; AI absorbs administrative burden, each worker serves more clients, and expanded capacity requires more workers. Cost is high and returns materialise over years; pilots must precede scale.
+
+| Criterion | Rating | Justification |
+|---|---|---|
+| Causal alignment | High | Addresses reinstatement deficit and so-so technology dynamic |
+| Target precision | High | Sector selection based on verified labour shortage data |
+| Reinstatement effect | High | Creates role demand through productivity-driven service expansion |
+| Equity | High | Productivity-linked wage improvements |
+| Fiscal efficiency | Low–Moderate | High upfront cost; returns materialise over years, not months |
+
+---
+
+### Option 4: AI Productivity Levy
+
+Firms that reduce headcount through AI pay a levy **hypothecated directly to the transition fund**. Firms that maintain or grow headcount are exempt, creating a direct incentive against so-so substitution. This follows established Australian policy logic (the Major Bank Levy, the MRRT) and is ***the only option that addresses the root cause*** while self-funding the rest of the package.
+
+| Criterion | Rating | Justification |
+|---|---|---|
+| Causal alignment | Highest | Addresses root cause: capital capturing labour productivity value |
+| Target precision | Moderate | Firm disclosure links levy to verified adoption |
+| Reinstatement effect | Indirect | Funds reinstatement mechanisms; does not create roles directly |
+| Equity | High | Redistributes AI productivity gains to displaced workers |
+| Fiscal efficiency | Revenue-generating | Funds Options 1–3 without competing against general revenue |
+
+---
+
+### Comparative Judgement
+
+No single option is sufficient. Without funding, programs fail. Without job creation, training leads nowhere. Without training, workers cannot transition. Without income support, they cannot wait. ***The package is interdependent by design***, and must be sequenced accordingly.
+
+**UBI fails this test.** It addresses income maintenance without touching skill mismatch, reinstatement deficit, or fiscal sustainability. At the cost of a meaningful UBI, this package delivers superior outcomes on all five criteria.
+
+*The recommended deployment sequence for this package follows.*
