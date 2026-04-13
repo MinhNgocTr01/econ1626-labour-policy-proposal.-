@@ -1,18 +1,22 @@
-# ECON1626 — AI & the Labour Market: Policy Proposal
+# AI and the Labour Market: Policy Proposal
 
 **Author:** Truong Minh Ngoc (s4055333)
-**Course:** ECON1626 — Economics of the Labour Market
-**Institution:** The University of Queensland
+
+**Course:** Economics of Artificial Intelligence / School of Economics, Finance and Marketing
+
+**Institution:** RMIT University 
+
 **Submitted to:** Deputy Secretary, Employment & Skills,
 Department of Employment and Workplace Relations (DEWR)
+
 **Date:** April 2026
 
 ---
 
 ## Academic Disclaimer
 
-This proposal is prepared as a academic exercise for ECON1626 at The
-University of Queensland. It does not represent the official position
+This proposal is prepared as a academic exercise for ECON1626 at RMIT 
+University. It does not represent the official position
 of the University, DEWR, or any Australian government body. Cost
 estimates, displacement projections, and implementation timelines are
 derived from publicly available academic and institutional sources and
@@ -31,7 +35,7 @@ time-asymmetric: displacement is front-loaded and concentrated on
 middle-skill cohorts, while reinstatement is back-loaded and diffuse.
 Current policy settings address neither dimension.
 
-The recommended package — wage insurance, demand-verified reskilling,
+The recommended package: wage insurance, demand-verified reskilling,
 AI complementarity investment in public services, and a productivity
 levy — is phased over seven years at an estimated $1.74–2.08 billion,
 approximately 0.2% of the $0.8 trillion GDP loss projected under no
