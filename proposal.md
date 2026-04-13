@@ -165,3 +165,55 @@ No single option is sufficient. Without funding, programs fail. Without job crea
 **UBI fails this test.** It addresses income maintenance without touching skill mismatch, reinstatement deficit, or fiscal sustainability. At the cost of a meaningful UBI, this package delivers superior outcomes on all five criteria.
 
 *The recommended deployment sequence for this package follows.*
+
+---
+
+## IV. Recommended Package & Implementation
+
+| Phase | Timeline | Estimated Cost |
+|---|---|---|
+| **Phase 0:** Administrative Foundation | Months 0 to 6 | $30 to 43M |
+| **Phase 1:** Immediate Response | Months 6 to 18 | $540M to $1.93B |
+| **Phase 2:** Transition Infrastructure | Months 18 to 36 | $873M to $2.63B |
+| **Phase 3:** Structural Reform | Months 36 to 84 | Revenue-generating |
+
+A detailed breakdown of cost assumptions, displacement scenarios, and levy revenue projections for each phase is provided in the [Appendix](#appendix-cost-assumptions-and-fiscal-estimates) for further investigation.
+
+---
+Before any option deploys, the administrative foundation must exist. 
+
+**Phase 0. Administrative Foundation (Months 0 to 6 | $30 to 43M)**
+
+JSA publishes the AI-exposure occupation register; DEWR legislates mandatory AI adoption and headcount disclosure for firms with 100+ employees; Workforce Australia systems are updated for proxy-framework eligibility; Treasury commissions the Productivity Commission levy review. No transfer or training dollar is spent before this infrastructure exists. It is the ***highest return-on-investment decision*** in the package.
+
+**Phase 1. Immediate Response (Months 6 to 18 | $540M to $1.93B)**
+
+Wage insurance activates. All VET and TAFE pathways are audited against JSA's 3% demand threshold; non-compliant programs are suspended. Option 3 pilots are commissioned with the Department of Health and DSS. Phase 1 gross cost ranges from $540 million under conservative displacement assumptions. The review trigger is re-employment rate at 12 months; if uptake falls below 50%, the eligibility framework is reviewed before Phase 2 activates.
+
+**Phase 2. Transition Infrastructure (Months 18 to 36 | $873M to $2.63B)**
+
+Demand-verified reskilling is operational. Aged care and primary healthcare AI complementarity pilots launch. Productivity Commission completes the levy review and draft legislation is prepared. First wage insurance cohort is assessed at 18 months; if re-employment rates is <60%, cap extends to 30 months, and Option 3 deployment accelerates. Phase 2 gross cost ranges from $873 million to $2.63 billion, and Option 3 pilot headcount serving as primary performance indicators.
+
+**Phase 3. Structural Reform (Months 36 to 84)**
+
+Levy legislated, applied to substitution-type AI adoption and hypothecated to the transition fund. Option 3 scales to education and disability services based on pilot results. At conservative assumptions, cumulative levy revenue of **$1 to 3 billion annually** renders the package cost-neutral by Year 5. Full review at Year 5 recalibrates all settings.
+
+Without intervention, Australia faces a projected cumulative GDP loss of **$0.8 trillion** over five years. The full package cost of $1.74 to 2.08 billion to Year 7 represents ***0.2% of that projected loss***.
+
+---
+
+## V. Risks & Mitigations
+
+The most acute risk is **timing**. If AI capability accelerates faster than Phase 0 allows and early 2026 Australian tech layoff data suggests this is possible, Phase 0 compresses to three months and Phase 1 deploys concurrently using JSA's existing occupation data. *Less precise, but preferable to inaction.*
+
+**Demand obsolescence** is managed through annual JSA register updates and demand-contingency clauses in reskilling contracts that redirect enrolments when a destination falls below threshold mid-program.
+
+The **levy's definitional risk** distinguishing substitution from augmentation in firm reporting requires clear ATO and ABS guidance at Phase 0. Without it, both the incentive structure and revenue forecast break.
+
+*Each risk, if unaddressed, strengthens rather than weakens the case for moving early.*
+
+---
+
+## Conclusion
+
+The window for getting this right is not indefinite. Displacement is already visible in Australian professional services, and the institutional mechanisms that historically closed the transition gap are ***structurally weaker than in any previous technology cycle***. Waiting is itself a policy choice with a known price: entrenched inequality, suppressed labour demand, and a productivity dividend that accrues to capital alone. This package does not ask Australia to choose between productivity and fairness. Without it, **that choice will be made by default**.
